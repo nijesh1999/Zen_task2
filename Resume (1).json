@@ -1,0 +1,50 @@
+{
+  "basics": {
+    "name": "G.Gowthaman",
+    "email": "gowtham@gmail.com",
+    "phone": "6789012345",
+    "degree": "B.E",
+    "summary": "I am a fresher",
+    "location": {
+      "address": "A block",
+      "city": "kancheepuram",
+      "country": "India"
+    },
+    "profiles": [
+      {
+        "network": " facebook",
+        "username": "gowtham22"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Sai Ram Enginerring College",
+      "area": "Instrumentation",
+      "studyType": "Fulltime",
+      "startDate": "16-8-2017",
+      "endDate": "12-5-2021",
+      "gpa": "7.00"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": ["('Java','Python','SQL')"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional"
+    },
+    { "language": "Tamil", "fluency": "professional" }
+  ],
+  "interests": [
+    {
+      "name": "video games",
+      "keywords": ["(ps3', 'ps4', 'xbox')"]
+    }
+  ]
+}
