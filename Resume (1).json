@@ -1,26 +1,26 @@
 {
   "basics": {
-    "name": "G.Gowthaman",
-    "email": "gowtham@gmail.com",
-    "phone": "6789012345",
-    "degree": "B.E",
+    "name": "Nijesh R",
+    "email": "nijesh@gmail.com",
+    "phone": "849755575",
+    "degree": "BCA",
     "summary": "I am a fresher",
     "location": {
       "address": "A block",
-      "city": "kancheepuram",
+      "city": "chennai",
       "country": "India"
     },
     "profiles": [
       {
         "network": " facebook",
-        "username": "gowtham22"
+        "username": "nijesh_107"
       }
     ]
   },
   "education": [
     {
-      "institution": "Sai Ram Enginerring College",
-      "area": "Instrumentation",
+      "institution": "Nooral islam College of arts and science",
+      "area": "Computer Applications",
       "studyType": "Fulltime",
       "startDate": "16-8-2017",
       "endDate": "12-5-2021",
@@ -43,8 +43,8 @@
   ],
   "interests": [
     {
-      "name": "video games",
-      "keywords": ["(ps3', 'ps4', 'xbox')"]
+      "name": "sports",
+      "keywords": ["('cricket', 'kabaddi', 'tennis')"]
     }
   ]
 }
